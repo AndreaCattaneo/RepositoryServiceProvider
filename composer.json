@@ -1,5 +1,5 @@
 {
-    "name": "andreacattaneo/repository-service-provider",
+    "name": "andreacattaneo/repositoryserviceprovider",
     "type": "library",
     "description": "Doctrine repository service provider for Silex",
     "keywords": [ "doctrine2", "silex", "repository" ],
